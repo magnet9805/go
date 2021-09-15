@@ -94,7 +94,7 @@ func main() {
 
 }
 */
-/*package main
+package main
 
 import (
 	"fmt"
@@ -124,7 +124,8 @@ func main() {
 	}
 
 }
-*/
+
+/*
 package main
 
 import (
@@ -155,7 +156,7 @@ func main() {
 	}
 
 }
-
+*/
 /*package main
 
 import (
