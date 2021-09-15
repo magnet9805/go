@@ -32,7 +32,7 @@ func main() {
 
 }
 */
-/*package main
+package main
 
 import (
 	"fmt"
@@ -61,8 +61,9 @@ func main() {
 		fmt.Println(number, "는 소수가 아닙니다.")
 	}
 
-}*/
+}
 
+/*
 package main
 
 import (
@@ -93,7 +94,7 @@ func main() {
 	}
 
 }
-
+*/
 /*
 package main
 
